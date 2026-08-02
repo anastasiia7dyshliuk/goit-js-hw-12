@@ -50,7 +50,7 @@ body {
   z-index: 10;
 }
 
-.search-form {
+.form {
   display: flex;
   gap: 12px;
   max-width: 600px;
